@@ -1,4 +1,4 @@
-Student List App
+##2 Full Stack Student List App
 
 It is a simple app that can record information of enrolled students including their name, email, enrollment year and major through creating, reading, updating and deleting(CRUD) methods.
 
