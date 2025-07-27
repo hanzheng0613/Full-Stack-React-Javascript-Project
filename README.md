@@ -3,7 +3,7 @@
 It is a simple app that can record information of enrolled students including their name, email, enrollment year and major through creating, reading, updating and deleting(CRUD) methods.
 
 
-Tech Stack:
+## Tech Stack:
 Frontend: React, Javascript
 Backend: Flask, Python
 
